@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rubric Grading Assistant"
+  short_description: "Draft rubric-based grading analysis and feedback."
+  default_prompt: "Grade one assignment using my rubric."

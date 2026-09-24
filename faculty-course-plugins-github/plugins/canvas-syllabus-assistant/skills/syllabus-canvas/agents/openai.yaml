@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canvas Syllabus Assistant"
+  short_description: "Revise syllabi and prepare Canvas-ready content."
+  default_prompt: "Update my syllabus and prepare it for Canvas."
